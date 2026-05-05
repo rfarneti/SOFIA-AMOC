@@ -4,3 +4,5 @@ Transient response of the Atlantic Meridional Overturning Circulation and Antarc
 Riccardo Farneti and Zihan Song
 
 These directories contain Python scripts for plotting/analysing model output.
+Processed model output can be found in the directory ./DATA/
+The complete datasets are available on Zenodo at: [...]
